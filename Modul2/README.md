@@ -1,0 +1,2 @@
+untuk modul 2 ini terdapat 2 soal yang pertama mebuat layput diantaranya terdapat linear layout, relative layoutdan tabel layout
+untuk no 2 membuat recycle view, yang dapat menginputkan gambar dan menambah keterangan didalamnya. dan disitu harus membuat 2 activity,adapter untuk menghubunkan dengan mainactivitynya
