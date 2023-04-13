@@ -1,0 +1,2 @@
+pada modul 1 tugas praktikum membuat sebuah app yang dan kami harus dapat menggubah baground menambahkan gambar serta penjelasan singkat, saya mengubah gambar menggunakan (android:background="#2775A3")
+dan menambah gambar melalui drawebel tinggal copy dan paste saja, serta untuk penjelasannya saya menggunakan article text melalui string dari value
