@@ -1,0 +1,1 @@
+pada modul 3 terdapat 2 soal yang sama yaitu membuat intent implicit dan juga explicit, pada modul ini saya membuat 2 button yang pertama dapat menampilkan ke halaman lain jika di click, dan button satunya dapat berpndah pada aplikasi lainnya jika diclick
