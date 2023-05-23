@@ -1,0 +1,1 @@
+Pada modul ini membuat sebuah navigasi yang dapat memnampilkan fragmen, saya membuat 2 navigasi dan 2 fragmen yang terdapat tombol button untuk berpindah halaman dari halaman 1 ke halaman lainnya
